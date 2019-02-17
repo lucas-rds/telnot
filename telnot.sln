@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telnot", "telnot\telnot.csproj", "{FB9E3538-F129-4F12-AD19-4C73C5DAB086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9E3538-F129-4F12-AD19-4C73C5DAB086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9E3538-F129-4F12-AD19-4C73C5DAB086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9E3538-F129-4F12-AD19-4C73C5DAB086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9E3538-F129-4F12-AD19-4C73C5DAB086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20122092-B423-49A5-B9D3-D020A5983A23}
+	EndGlobalSection
+EndGlobal
